@@ -1,0 +1,63 @@
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\Antlr3.Runtime.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.Core.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\EntityFramework.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\System.Web.Optimization.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\System.Web.Providers.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\WebGrease.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\EntityFramework.xml
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.Core.xml
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\KRISHNA\Desktop\ASP\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\WebApplication6.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\Antlr3.Runtime.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\AspNet.ScriptManager.jQuery.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.AspNet.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.Core.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OAuth.Consumer.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OAuth.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OpenId.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\EntityFramework.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\Microsoft.ScriptManager.WebForms.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\System.Web.Optimization.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\System.Web.Providers.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\WebGrease.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\EntityFramework.xml
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.Core.xml
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OAuth.xml
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OAuth.Consumer.xml
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OpenId.xml
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\bin\DotNetOpenAuth.AspNet.xml
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csproj.CoreCompileInputs.cache
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csproj.CopyComplete
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+I:\STUDY\DOTNET NOTES\ASP\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
